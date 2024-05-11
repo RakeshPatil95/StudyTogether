@@ -1,0 +1,8 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(òéĞ´şÿÿÿÿ8÷…¬ò1
+O
+java:S1172"-Remove this unused method parameter "input1".(òéĞ´şÿÿÿÿ8ø…¬ò1
+`
+java:S1612"CReplace this lambda with method reference 'parentMap::containsKey'.(êĞÁ‰8û…¬ò1
+L	java:S106R"+Replace this use of System.out by a logger.(ÜŸ×¹şÿÿÿÿ8ı…¬ò1

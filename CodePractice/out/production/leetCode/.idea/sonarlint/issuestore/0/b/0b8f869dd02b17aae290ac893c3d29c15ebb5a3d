@@ -1,0 +1,8 @@
+
+]	java:S125
+"<This block of commented-out lines of code should be removed.(³¼õşÿÿÿÿ8ğŠî1
+L	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8åĞˆî1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8Óä‡î1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8çĞˆî1

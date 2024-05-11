@@ -1,0 +1,8 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ëš×£ğ1
+X	java:S125"<This block of commented-out lines of code should be removed.(“”é8ìš×£ğ1
+X	java:S125"<This block of commented-out lines of code should be removed.(öî’8ñš×£ğ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÿš×£ğ1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ÿš×£ğ1

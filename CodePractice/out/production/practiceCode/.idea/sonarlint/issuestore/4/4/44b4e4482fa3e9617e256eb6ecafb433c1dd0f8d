@@ -1,0 +1,8 @@
+
+E
+java:S1481"(Remove this unused "str" local variable.(´Õ»Ö8“¶ñ™ò1
+G	java:S106
+"+Replace this use of System.out by a logger.(µú‹¹8”¶ñ™ò1
+G	java:S106"+Replace this use of System.out by a logger.(ƒ˜ŠÉ8”¶ñ™ò1
+G
+java:S1197"*Move the array designators [] to the type.( ×®’8•¶ñ™ò1

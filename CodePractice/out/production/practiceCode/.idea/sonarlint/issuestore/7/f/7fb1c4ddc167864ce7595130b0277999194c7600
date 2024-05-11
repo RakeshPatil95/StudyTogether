@@ -1,0 +1,10 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(¾ä£û8€Õ¡»ò1
+G
+java:S1197	"*Move the array designators [] to the type.(ã³…8‹Õ¡»ò1
+L	java:S106
+"+Replace this use of System.out by a logger.(Òœ˜’ÿÿÿÿÿ8ŒÕ¡»ò1
+X	java:S125"<This block of commented-out lines of code should be removed.(›ÚÏÑ8¹£»ò1
+S
+java:S1144"7Remove this unused private "containsDuplicate1" method.(Ó¶Áb8¤¹£»ò1

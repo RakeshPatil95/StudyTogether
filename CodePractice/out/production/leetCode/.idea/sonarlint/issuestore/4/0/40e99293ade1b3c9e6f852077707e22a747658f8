@@ -1,0 +1,7 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÂñÇØ8ÎÆ£º—1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ð¼Øùÿÿÿÿ8¼¬¦º—1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÄõÊ¿øÿÿÿÿ8ð«¨º—1
+L
+java:S1172"*Remove this unused method parameter "str".(ÄõÊ¿øÿÿÿÿ8ö«¨º—1
