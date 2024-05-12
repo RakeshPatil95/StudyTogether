@@ -1,0 +1,5 @@
+package pojos;
+
+public enum Status {
+	STUDENT_ADMITTED, ADMISSION_CANCELLED, COURSE_LAUNCHED, COURSE_CANCELLED
+}

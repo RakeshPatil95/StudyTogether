@@ -1,0 +1,27 @@
+INDEX VERSION 1.4+D:\Advanace Java\AllDaysCode\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3759651606.index
+2233796228.index
+683154724.index
+2121956017.index
+3357672905.index
+3111803838.index
+3262743654.index
+2224640285.index
+543198839.index
+2207917248.index
+1026883880.index
+495976615.index
+564323392.index
+2386787266.index
+619573957.index
+2733462046.index
+572928046.index
+602167833.index
+2981186718.index
+2360087403.index
+3098260986.index
+695891731.index
+1480146020.index
+1603725755.index
+3387097362.index
+3140444564.index

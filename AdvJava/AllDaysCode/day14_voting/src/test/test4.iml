@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="day15_mvc_hibernate" />
+    <orderEntry type="module" module-name="day7.1" />
+    <orderEntry type="module" module-name="day5.1" />
+    <orderEntry type="module" module-name="day2.1" />
+    <orderEntry type="module" module-name="day4.2" />
+    <orderEntry type="module" module-name="day5_cms" />
+    <orderEntry type="module" module-name="day13_sms" />
+    <orderEntry type="module" module-name="day10.1" />
+    <orderEntry type="module" module-name="day1.2" />
+    <orderEntry type="module" module-name="day7_assgn" />
+    <orderEntry type="module" module-name="day1.1" />
+    <orderEntry type="module" module-name="day8.2" />
+    <orderEntry type="module" module-name="day14_sms" />
+    <orderEntry type="module" module-name="day13_sms2" />
+    <orderEntry type="module" module-name="day6.1" />
+    <orderEntry type="module" module-name="day6_cms" />
+    <orderEntry type="module" module-name="day6.2" />
+    <orderEntry type="module" module-name="day4_lab" />
+    <orderEntry type="module" module-name="day9.1" />
+    <orderEntry type="module" module-name="main26" />
+    <orderEntry type="module" module-name="day21.1" />
+    <orderEntry type="module" module-name="day4.1" />
+    <orderEntry type="module" module-name="day11.1" />
+    <orderEntry type="module" module-name="day12.1" />
+    <orderEntry type="module" module-name="day8.1" />
+    <orderEntry type="module" module-name="day12_sms" />
+    <orderEntry type="module" module-name="day9_voting" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="0340a98d-b3e9-44c2-81d2-3a4f6cca8e6c" />
+  </component>
+</module>
